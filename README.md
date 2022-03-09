@@ -1,4 +1,3 @@
 # odin-recipes
 First project from The Odin Project!
-HTML Foundations
-Project: Recipes
+<p>https://dcagudo13.github.io/odin-recipes/</p>
